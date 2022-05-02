@@ -22,7 +22,7 @@ global $Host, $User, $Password, $DBName, $table_1, $table_2;
 $Host = "localhost";
 $User = "root";
 $Password = "";
-$DBName = "members";
+$DBName = "whatever";
 $table_1 = "admin_users";
 $table_2 = "users";
 }
