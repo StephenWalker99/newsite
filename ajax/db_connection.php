@@ -1,9 +1,9 @@
 <?php
 // Connection variables to K9connectables
-$host = "db769156931.hosting-data.io";
-$user = "dbo769156931";
-$password = "Tottenham_99";
-$database = "db769156931";
+$host = "";
+$user = "";
+$password = "";
+$database = "";
 
 // Connect to MySQL Database
 $con = new mysqli($host, $user, $password, $database);
